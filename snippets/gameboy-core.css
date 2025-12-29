@@ -1,0 +1,19 @@
+/* ===========================
+   GAME BOY CORE TOKENS
+   =========================== */
+
+:root {
+  --gb-bg: #9bbc0f;
+  --gb-dark: #0f380f;
+  --gb-mid: #306230;
+  --gb-light: #8bac0f;
+}
+
+/* Preview only — keep editor usable */
+.markdown-preview-view {
+  background: var(--gb-bg);
+  color: var(--gb-dark);
+  font-family: "Press Start 2P", monospace;
+  font-size: 12px;
+  line-height: 1.7;
+}
